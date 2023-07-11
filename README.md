@@ -5,6 +5,9 @@ More about my work can be found at:
 - [JWD @ ResearchGate](https://www.researchgate.net/profile/Johannes-W-Dietrich)
 - [JWD @ SourceForge](https://sourceforge.net/u/jwdietrich/profile/)
 - [JWD @ YouTube](https://www.youtube.com/@jwdietrich_science)
+- [JWD @ Twitter](https://twitter.com/drjwdietrich)
+- [JWD @ Mastodon](https://qoto.org/@drjwdietrich)
+- [JWD @ LinkedIn](https://www.linkedin.com/in/jwdietrich/)
 - [ORCID ID](https://orcid.org/0000-0002-1185-3549)
 
 
