@@ -8,6 +8,7 @@ More about my work can be found at:
 - [JWD @ Twitter](https://twitter.com/drjwdietrich)
 - [JWD @ Mastodon](https://qoto.org/@drjwdietrich)
 - [JWD @ LinkedIn](https://www.linkedin.com/in/jwdietrich/)
+- [Loop Profile](https://loop.frontiersin.org/people/238877/overview)
 - [ORCID ID](https://orcid.org/0000-0002-1185-3549)
 
 
