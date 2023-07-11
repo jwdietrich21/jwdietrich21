@@ -12,6 +12,8 @@ More about my work can be found at:
 - [Loop Profile](https://loop.frontiersin.org/people/238877/overview)
 - [ORCID ID](https://orcid.org/0000-0002-1185-3549)
 
+-
+
 ### Publications ###
 
 - [Bibliography at the NIH](https://www.ncbi.nlm.nih.gov/myncbi/johannes%20w..dietrich.1/bibliography/public/)
