@@ -1,7 +1,13 @@
 # PD Dr. med. Johannes W. Dietrich #
 ## GitHub Repositories ##
 
----
+--
+
+More about my work can be found at:
+
+- [JWD @ ResearchGate](https://www.researchgate.net/profile/Johannes-W-Dietrich)
+- [JWD @ SourceForge](https://sourceforge.net/u/jwdietrich/profile/)
+- [JWD @ YouTube](https://www.youtube.com/@jwdietrich_science)
 
 
 <!--
