@@ -8,7 +8,7 @@ More about my work can be found at:
 - [JWD @ Twitter](https://twitter.com/drjwdietrich)
 - [JWD @ Mastodon](https://qoto.org/@drjwdietrich)
 - [JWD @ LinkedIn](https://www.linkedin.com/in/jwdietrich/)
-- [NIH Biosketch](https://www.ncbi.nlm.nih.gov/myncbi/johannes w..dietrich.1/cv/570968/)
+- [NIH Biosketch](https://www.ncbi.nlm.nih.gov/myncbi/johannesw..dietrich.1/cv/570968/)
 - [Loop Profile](https://loop.frontiersin.org/people/238877/overview)
 - [ORCID ID](https://orcid.org/0000-0002-1185-3549)
 
