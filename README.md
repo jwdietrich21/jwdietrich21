@@ -12,7 +12,6 @@ More about my work can be found at:
 - [Loop Profile](https://loop.frontiersin.org/people/238877/overview)
 - [ORCID ID](https://orcid.org/0000-0002-1185-3549)
 
---
 
 ### Publications ###
 
