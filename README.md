@@ -1,5 +1,4 @@
-# PD Dr. med. Johannes W. Dietrich #
-## GitHub Repositories ##
+# PD Dr. med. Johannes W. Dietrich – GitHub Repositories #
 
 More about my work can be found at:
 
