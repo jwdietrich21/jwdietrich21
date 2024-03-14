@@ -7,6 +7,7 @@ More about my work can be found at:
 - [JWD @ YouTube](https://www.youtube.com/@jwdietrich_science)
 - [JWD @ Twitter](https://twitter.com/drjwdietrich)
 - [JWD @ Mastodon](https://qoto.org/@drjwdietrich)
+- [JWD @ Bluesky](https://bsky.app/profile/drjwdietrich.bsky.social)
 - [JWD @ LinkedIn](https://www.linkedin.com/in/jwdietrich/)
 - [NIH Biosketch](https://www.ncbi.nlm.nih.gov/myncbi/johannesw..dietrich.1/cv/570968/)
 - [Loop Profile](https://loop.frontiersin.org/people/238877/overview)
