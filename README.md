@@ -1,4 +1,4 @@
-# apl. Prof. Dr. med. Johannes W. Dietrich – GitHub Repositories #
+# Prof. Dr. med. Johannes W. Dietrich – GitHub Repositories #
 
 More about my work can be found at:
 
